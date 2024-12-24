@@ -1,0 +1,4 @@
+variables:
+  - name
+  - name_with_underscores
+  - name_with_dashes
