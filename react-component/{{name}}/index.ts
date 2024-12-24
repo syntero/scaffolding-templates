@@ -1,1 +1,1 @@
-export * from '"./{{name_with_dashes}}"';
+export * from "./{{name_with_dashes}}";
